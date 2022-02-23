@@ -9,7 +9,7 @@ func main() {
 		config: &bot.Config{
 			Twitch: &bot.Twitch{
 				Username: "LisaScheers",
-				Token:    "oauth:1cvh668q2689uglwcck08mv6v9oero",
+				Token:    "oauth:XXXXXXXXXXXXXXXXXXX",
 				Channel:  "LisaScheers",
 			},
 			Commands: []bot.Command{
